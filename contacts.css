@@ -1,0 +1,11 @@
+table{
+    width:500px
+}
+table{
+    text-align: left;
+
+}
+table,th,td{
+    border: 1px solid rgb(37, 39, 36);
+    border-collapse: collapse;
+}
